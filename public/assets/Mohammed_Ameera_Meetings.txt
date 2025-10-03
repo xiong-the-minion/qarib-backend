@@ -1,0 +1,393 @@
+Mohammed Zaghloul (msalahz)  0:05  
+Hello, Ameera, can you hear me? Hello,
+
+Mohammed Zaghloul (msalahz)  0:15  
+hello, Am?
+
+Mohammed Zaghloul (msalahz)  0:42  
+I? I'm Hello.
+
+Ameera Kawash  1:06  
+Hey. Mohammed, hi. How are you? I'm
+
+Mohammed Zaghloul (msalahz)  1:07  
+doing fine. How
+
+Ameera Kawash  1:09  
+about yourself? I'm good. I'm all right. I'm back from my holiday. So welcome back. Yeah, welcome back to the real world. It was good. My laptop got destroyed, and I was, I was actually forced to go offline, so maybe it was good for me, but yeah, now I'm, I'm back, so yeah,
+
+Mohammed Zaghloul (msalahz)  1:30  
+it's a good reason to take myself.
+
+Ameera Kawash  1:33  
+Yeah, I was out of my hands. Yeah. And anyway, Walid is now. He's completely swept up into this conference this week, so we're going to be kind of passing the button, and I will be taking over for for this stretch. So it will take me a bit of time to get 100% up to speed with everything that is happening, though he's briefed me, so that's good. And I guess we'll also wait for Taha um to join. But from my understanding, you haven't at all had any interaction with Mustafa, who's doing the UX.
+
+Mohammed Zaghloul (msalahz)  2:10  
+No, I was just asking worried about him. Yeah, I heard that he's joining, but I never saw him, never Yeah,
+
+Ameera Kawash  2:20  
+it also his hours. You know, he's working on this. And now, I don't know if you've seen the Arabic version of the UX yet anyway, but his hours are only like evenings and weekends, so we'll arrange right now. You see his figma,
+
+Mohammed Zaghloul (msalahz)  2:39  
+yeah, what he just shared? Okay, good, good.
+
+Ameera Kawash  2:41  
+I was gonna share it. Yeah, yeah. So this is the figma, you know, RTL, but yeah, I mean, it actually would be good for you as well. To we haven't finalized any of this, you know, the language, the the font is the font we like. But you know, everything is, I think we need to connect better. Now what you're doing with, you know, the pushing the UX as well. So now we have Taha. Yeah,
+
+Mohammed Zaghloul (msalahz)  3:16  
+yeah. Hi, Taha.
+
+Taha Shahzad  3:20  
+Hello. Hello, Ameera, hello,
+
+Ameera Kawash  3:21  
+hey, hey, Taha, Hey. How's it all going? Everything's good, good, good. Did you receive the figma as well from Walid? I guess you just sent it. You sent it on our channel. Okay. Cool. Cool. Yeah, yeah. So this is what Mustafa has done. I was just saying to MO That, you know, he keeps generally evening hours and he works weekends. But I think it would be good to get everyone on a meeting as well, so we start to, you know, work more in sync. So, yeah. Anyway, yeah. So Waleed is going to be very busy this week at a conference, so I'm taking over this week. So it would be great if you know, I can just get up to speed everything that has been happening. I have the notes from Walid. I have the overview of what we're trying to accomplish in this sprint. And then I know Mustafa, I'm sorry, Mo had a lot of questions as well. So let's we try to address those as best we can, and then next next steps for the next sprint. So do you want to just walk me through where things are now?
+
+Taha Shahzad  4:40  
+Yeah, of course. So yeah, please go ahead Mohammed to give you front end updates which has been done, and then to give her an overview of
+
+Mohammed Zaghloul (msalahz)  4:49  
+actually, it will be unfair to give it, because this will include back end. So go ahead, start with the back end, and then I'll go something.
+
+Taha Shahzad  4:58  
+Yeah, okay, to give you an overview of what has been done up until now is basically we opted for, like, a new setup for the front end. Since Mohammed joined, he has taken over the front end side, and he has built the user interface from scratch. And we are we have done the authentication screens, we have done the transcript table, and we are getting up to speed with what was implemented in the previous build, but since you know that, it was quite good with the UI user experience. So now what we have is a bit a lot more polished and thoughtful design that Mohammed has, and he's, he's building that so in terms of the back end, and, you know, the features of the logos, we the features that we decided, as you know, that will Be for the auto replacement and also for the transcribers, we still have to decide how this would align with the transcribers workflow, but for now, we, you know, shortlisted the things that we will be doing in the first sprint, and out of that, I posted a summary that almost 50% of the work has been done From that sprint. Some of the tickets were still in progress. We faced issue with the backend deployment, which like, seems like it's fixed now, so I will be posting latest build on that as well. And so we have the authentication done. We have the transcript table done, and Mohammed yet has to, you know, connect it with the back end, since it's not deployed yet, but we'll have that today. So moving forward in the next like we have today's day and tomorrow, we will be doing the sprint planning for the next sprint. So today we have, you know, a little buffer time to complete what was pending from the previous print and, yeah, so that's, that's the update we are looking forward to get the previous functionality with the new UI done within the next two weeks, at least, like the basic flows that happy flows that Were working in the previous build, we'll be working with the new build as well.
+
+Ameera Kawash  7:26  
+Okay, great. So from what I'm understanding from your side, like on the back end, there were some technical barriers or hiccups, and you've addressed those, and you feel that you can complete the remaining tickets within the time frame of this, like, of of
+
+Taha Shahzad  7:46  
+this too. Yeah, not, not all of them will be close, but yeah, we could say that 60, we've achieved 60 to 70% of the completion rate for our tickets. We over estimate, you know, like we were a bit over optimistic about the estimates, but now we both have a bit more standing. Where we stand in terms of the estimates and how much time it will require we the next sprint, we are hoping that will at least close. All the tickets will be very close to what we estimate.
+
+Ameera Kawash  8:22  
+Okay, great, great. So basically, the all the authentication and the logins and and all of that which I saw, like, I don't remember, like, 10 days ago, that would that's all move to that, that's complete and now, and the basic transcript library is functional. So
+
+Taha Shahzad  8:38  
+please note that this is now the production level, you know, we're taking care of, like, whenever
+
+Ameera Kawash  8:42  
+details, yeah, everything has to be productionized at a level, yeah, I understand, yeah, yeah. So
+
+Taha Shahzad  8:49  
+registers, we're sending them an email, like a democratized email, of verifying their email and then forget password and all of that is, you know, well thought,
+
+Ameera Kawash  9:02  
+okay, yeah. Did Waleed share with you, I think he did. You know you were asking about the how the transcriber workflow knits together with this kind of like meeting intelligence platform. Did he share with you the whole floating toolbar concept? Yeah, yeah, yeah.
+
+Taha Shahzad  9:23  
+So that's yeah, please go ahead,
+
+Ameera Kawash  9:26  
+yeah, yeah. Anyway, yeah, okay. No, go ahead. Go ahead. Tell me what you were gonna say.
+
+Taha Shahzad  9:31  
+So me and Mohammed were also discussing this floating toolbar and how the you know the concept of modifying the toolbar based on the use case of the user. That's the design is there, but we are still not 100% you know, sure about how this functionality would work, and what features do we have to give to transcribers? What features will be giving to the other users? You know, have those user personas ready in front of us. Who are our users? Yeah, some people who are just going to be using this for meeting intelligence, some people, some lecturers might be using for their lectures, and transcribers might be using for their transcription. So these are,
+
+Ameera Kawash  10:13  
+I guess, you know, the primary user, you know customer is going to be the on the business and the meeting intelligence side of things, and the transcriber, you know, it might even be, you know, internal usage at this point. But what's important about it is that that feature can grow over time. So we don't, we don't want to remember we had this conversation with Alex some time ago. We don't want to branch completely. We want to keep it integrated. Because, yeah, right now it might seem like very secondary or very niche user, but over time, that capable capability, because that's where the agentic architecture is going to be integrated. At least it will be there, you know, and we can, we can build on it. So, you know, we can go, we can go through it. But I would say, you know, as a summary, or, like, the big overview, is that, essentially, it's, it's, there isn't going to be another UX designed for the transcriber and so on. It's just in this, in this floating toolbar, you'll just have the option as well of having those error types and such as we have.
+
+Taha Shahzad  11:28  
+I don't need to have a very separate UI for that. Yeah. I meant was this floating toolbar how it is right now doesn't clearly define, like, what options do we need to have and what are our user proceeds? Yeah, yeah. So that just needs to be a bit more, you could say, concrete and
+
+Ameera Kawash  11:45  
+conceptualize, like on the UX side, yeah. So that's important that we start to figure out, like, the the most critical things on the UX side, and then we start to connect with Mustafa to, you know, we start to flush these things out. So, yeah, the
+
+Taha Shahzad  12:02  
+best would be to, you know, just to visualize, you know, mental and a mental exercise of how the transcribers would want to use this, how the lecturers would want to use this, and then think of this noting toolbar as a medium to translate those different use cases, and what options can we put in, and how can we make certain changes to the user interface to make it fit their needs?
+
+Ameera Kawash  12:30  
+I guess it is important to the login as well, because the transcriber login or there will be some kind of permissions, there will be permissions that would be available only to transcribers. So, yeah, I guess we need, we need to think about that particular integration.
+
+Taha Shahzad  12:50  
+That's why what we are focused on right now, like how I am, you know, targeting this is that we keep the meeting intelligence user in our minds, and we are focusing like we have all these things in the back of our head, but you know, this current release, when we do the MVP to MVP is going to be focused on the meeting intelligence
+
+Ameera Kawash  13:13  
+version one. Yeah, that's, that's fine. That's good. It's the only thing is that the transcriber, though, yes, is very, very niche and might even be internal. It's just an important differentiator, because that's the part where we begin to show how we have a genetic architecture embedded in the system. So it's for investors and stuff. It's, it will be important at least, to show that that is, you know, part of the platform in some way, but the it's, yeah. So anyway, let's, let's keep that on mind, and we'll start, you know, conceptualize it better, but in terms of just getting to this, like version one, meeting intelligence, yeah, what else? What others? What other things do we need to solve? Like, do you want to? Do you want to go through them? Mohammed, do you want to mo Do you want to start? Do you want to give your perspective? Yeah,
+
+Mohammed Zaghloul (msalahz)  14:16  
+great. Yeah, sure. So I walk you through a demo about the things already done, okay? And you can ask a question as I go. Okay, okay. So this is the figma I shared by by Waleed just now, right before the meeting. It's pretty much exactly what we only have, so with small, minor changes. So let's go to the browser here. So this is not provided by the designer, but I inspired it from the original design the colors and the fields. So the authentication process already shared screenshot was a demo for how it's working. It's fully functional now with full validation and bilingual support in Arabic and English now, and it also support mobile, friendly, responsive support is not full, but it's a good start the flow here, starting from the sign in and sign up and from the password.
+
+Mohammed Zaghloul (msalahz)  15:36  
+This, this is already tested against a working server, and it's fully functional production. As soon as the server is deployed by by Taha, this will be working now. Now I can't test it now because the mail server is down for some reason. Ameera, are you speaking? I'm here. I'm here. Yes, okay, so now I'm logging in. So this is the home page. As you can see, this is a main layout with a home page with the recording lines. This is not functional, but it mimics the design requirements. There are certain UI elements for filtering and searching and sorting and filtering is not there yet. I'm waiting for the back end support. But this is a real data that's coming from the back end. It's a mock data, of course. So these are the transcript. The table is matching the design. It have sorting by name and status and time as well. I can hover over and click for details, for some transcript by default,
+
+Taha Shahzad  16:50  
+just to add a little detail. Sorry, Mohammed, to cut you off. So Ameera, this is how the transcripts are
+
+Ameera Kawash  16:56  
+going to be. Yeah.
+
+Taha Shahzad  16:58  
+So now, instead of those cards, we have this table which is sortable, filterable. It's also responsive, yeah? So, yeah, we're using, like Mohammed is using a library that is quite fast in terms of the sorting and filtering. Yeah. It's going to be a good way to basically interact with, you know, like a power user, for example, a transcriber. Yeah, it's going to be very helpful for them, because they could quickly sort, filter, great search through the keywords and tags.
+
+Ameera Kawash  17:32  
+I would just say, I mean, looking at this, I'm sorry I haven't given my feedback in a more formal way. I will do it later. I think it should be a live. This should be called the library, you know. And inside of this library, I can't tell now, there's, there's different types of media, right, like, so transcription is, you know, you have interview, you put these are all, these are all audio based things. But what if, if someone wants to put in, eventually, a PDF, you know, or something text based. So maybe one of the columns should also be media type, like video, audio, video, audio, text, right? Like in the future.
+
+Taha Shahzad  18:15  
+By looking at this, I also realized there should be one more column which is actually added in the schema, but not available here is the language, because there's going to be multiple Arabic, you know, multiple elements, definitely.
+
+Ameera Kawash  18:29  
+Yeah, good, good, good, good call, yeah. So I think, I think to offhand, and there needs a more formal review, but it needs to call, it needs the language detection. Um, there could be multiple, right? You could have a you could use more. You could use more than one language in the and then the media, media type,
+
+Taha Shahzad  18:50  
+yeah, so sure how we have the answer for this, right? You remember, we were discussing, is it going to be just meetings, or how we are? Yeah, I
+
+Mohammed Zaghloul (msalahz)  18:59  
+was just going to mention this, but this is not a full answer. Unfortunately, I will need Ameera to go through this. When we have the server up, yeah, go through it yourself. Make your comments. My question was the conflict regarding this table. Table is saying that these are transparent, but there are opportunity around it that says it's not only transcript, because I can post a ligand here, and it should show some kind of status and also allow future, future scheduling for meeting the future. So I should show that there is a meeting in the future will happen and it will be recorded, and it will generate a transcript. Yeah, this table could have meetings that happened or in the future or happening right now, and could have transcript for already uploaded vehicles. It also could have transcript for uploaded PDF. Yeah, the media changed, so this should be some kind of a media table.
+
+Taha Shahzad  20:04  
+Let's media like, Yeah, I agree with you.
+
+Ameera Kawash  20:06  
+I think it should be a media library, maybe a separate table for meetings, you know, so that, or a way to organize it so you just see your I guess you can just, you can just organize by type, if maybe too much. I
+
+Taha Shahzad  20:23  
+think all the media Ameera, instead of taking the decision now,
+
+Ameera Kawash  20:27  
+we should. We don't need, we can make a decision later, yeah, yeah. We need to all align on it, yeah,
+
+Taha Shahzad  20:31  
+yeah. So basically is, we are informing you, because these are some of the conflicts that we and Mohammed were also discussing, yes, with this. Okay, okay, so it's going to improve the product, but you will have a better idea of this now that what Mohammed is saying is that we have in this table, we have meetings, we have videos, we have audios, we have PDFs, we have meetings that are going to take place in the future, and meetings that have already placed is basically just a output of the media that we put into it, right? So how do we reflect those? Those all things, probably in one table or a separate table, or if we you know, like how I'm thinking of unified user interfaces in today's SAS platforms, like notion and all of that, you could basically just have one table showcasing all your media, and then you can use filters to probably just filter them out as you have to, yeah,
+
+Ameera Kawash  21:27  
+yeah, okay,
+
+Mohammed Zaghloul (msalahz)  21:28  
+sounds good. And you should all link to the transcript output from these medias somehow. But this definitely shouldn't choose a transcript itself. It should show the inputs that the transcript will be generated based on them, okay? And according to this, it shouldn't show everything also. It should see the recent so keep in mind, is this a requirement? Think about it. What is the criteria for the data will be showing on the homepage, are we showing all the media's or, or we are showing the top recent 10 media items? Okay, so I have to raise and I will update my question for you so you have a reference to get back.
+
+Ameera Kawash  22:16  
+Okay, I will, I will get we will get back. I think these are very important. Yeah,
+
+Mohammed Zaghloul (msalahz)  22:20  
+okay. Moving forward, as you can see, this is fully bilingual supported. So the whole menu now is in Arabic. The whole screen can be, can be translated with all Arabic replacements, and as a date as well, of course, for the data itself, I cannot translate it because it is an English but of course, if the user is in Arabic, and using that Arabic data, the data will be in Arabic, especially text. So this is, this is a full support for bilingual. And left, right, right, left, support with filters and everything. The transcript table would show everything. So this is the main transcript. This will show all the transcript for the set for the current user logged in, and it has similar functionality for sorting, and I'm planning to add pagination and filters as well to match his expectations from the designs, as soon as the back end supports him. Okay, okay,
+
+Taha Shahzad  23:35  
+yeah, thanks. So one thing that Ameera, the more I talked to you, I realized that you're trying to build basically a knowledge platform rather than just a transcription platform. Is that
+
+Ameera Kawash  23:46  
+right? Yeah, that's correct, yeah. Okay, yeah. I mean, face phase, phase one was like the other, you know, the Arabic order replacement. And there's a, you know, there's a strong need for that, and maybe a need for it to even kind of, like, distinguish the UX in a way that people who just want to do it use, that they can have a very easy, clean experience. But I think, you know, the way we're looking at this over time is that this also becomes, if we're researchers, they want to put in their audio. They want to put in some, you know, research documents. They want to transcribe a podcast, you know. So it's more than just an auto replacement, but in the first instance, it was, it's not a replacement, but it's already more, because we already have podcasts, and we already have you know other other things that are not just your own meetings, right? So
+
+Taha Shahzad  24:47  
+have you, have you looked at notebook? Lm, by Google? Um,
+
+Ameera Kawash  24:53  
+I mean, I know Google, not Cola, like, No, I don't actually know it
+
+Taha Shahzad  24:57  
+notebook. LM, I just say that, yeah, when you have time, please go over that. Okay, upload your own files, and then it just creates this knowledge graph for you. And actually,
+
+Mohammed Zaghloul (msalahz)  25:13  
+it's built for Knowledge Hub. You simply give it everything and then ask your questions.
+
+Ameera Kawash  25:18  
+I use, I use, I use Anara quite a bit because a lot of researchers, particularly in the sciences, because it gives you very accurate citations. But that's kind of, but it's probably, yeah, I mean, I'll look at Google notebook. I generally don't use it, but yeah,
+
+Mohammed Zaghloul (msalahz)  25:40  
+yeah, it's notebook,
+
+Taha Shahzad  25:42  
+yeah, what is
+
+Ameera Kawash  25:43  
+it? I use Anara. I use Anara, yeah, and it's, they used to have knowledge graphs, actually removed it, but they have some proprietary knowledge extraction layer that makes it very, very precise, like, and it doesn't, has almost no hallucination like you only, it only works with what you give it, you know. So it's, it's a lot of, like, PhD researchers like it, but, but we're not, we're going for something more general now, you know, than, than something just for, like, high level research. So, yeah,
+
+Taha Shahzad  26:25  
+all right, great. So, yeah, I think that was a little overview of what has been done so far.
+
+Mohammed Zaghloul (msalahz)  26:36  
+Yeah, some other stuff. Okay, so any table for the transcript, you can hover over any item and click on it to go to the details. Let's go in English so the details will show the text and the list of attacks for each transcript, the main the main speaker, and date and time when it started. The summary means yes, is showing the summary. Now this is mock data. Of course, it's not generated from the API, but as soon as return, it will be shown here, and the transcript tab will show the list of participants, the speakers inside the transcript, self keyword now is static, and we have a question about it. What are keywords? Because the existing design, but we don't have them in the old system. Yeah, yeah.
+
+Ameera Kawash  27:31  
+You're asking, what are the keywords?
+
+Mohammed Zaghloul (msalahz)  27:33  
+Yes, should we generate them? Was Yeah, I mean,
+
+Ameera Kawash  27:36  
+I mean these, I'm a bit confused. Actually, maybe these are the auto generated but then you also have tags. So how do those how do those things work together?
+
+Mohammed Zaghloul (msalahz)  27:50  
+I'm not sure. I think text is assigned. So you can assign a tag to a specific stance, but
+
+Ameera Kawash  27:58  
+based on I'm not sure if we need I'm not. I have a question about keywords, myself, myself, I don't know. So let's leave, let's put that as one of these questions that we need to all align on. I'm not sure if you have tags and you have auto summary, and then eventually you have a way of querying the transcript. You know why you would? Yeah.
+
+Mohammed Zaghloul (msalahz)  28:22  
+Okay. Last we'll see here the transcript, which will show the signals each speaker said something that allows them to copy it to the clipboard, in case you want. And here we'll integrate the highlight and tagging functionality, great. So this is everything we went through, of course, the Logout experience. When you want to look out, that's it. Do you have a question? Also, they can go from here to details, of course, from home. So this is a serious function.
+
+Ameera Kawash  28:54  
+Wait, say that last bit again, I didn't follow you. They can't go from
+
+Mohammed Zaghloul (msalahz)  28:57  
+they can go from home to the details directory. So this was a transcript table. This is all the transcripts home. Have a list of transcripts as well. You can hover over and click to go to details directory, yes. So any table would go to details based on clicking the corresponding rule, yeah.
+
+Ameera Kawash  29:18  
+I just think maybe, I mean, yeah. I mean, we have to sort out some of these UX things. They need more, you know, I think maybe summary and transcript could be on one page, you know, okay,
+
+Mohammed Zaghloul (msalahz)  29:32  
+but anyway, designs based on the designs the trust script have other stuff as a summary will have different stuff. Let me show you the design.
+
+Mohammed Zaghloul (msalahz)  29:55  
+Here is the expectation. So this is a transcript page as I built it, and this is a summary, so somebody will have the menses, which is the summary generated, and action items, yeah, and outlines, outline. So, okay, this, these are the different,
+
+Ameera Kawash  30:13  
+yeah, okay, okay, I see, yeah. I mean, I just, you know, I mean, I guess one of the things I like in order, I mean, is that, that you, you everything is queryable, you know, like you can generate, if you want action items, if you want, you know, whatever I do want to change the summary, you want to query it. I guess we will have that at a later stage, but for now, yeah, I know. I mean, one of the things we do need to start thinking about is how to you know when we're when we're bringing in the corrections functionalities, because that will also apply to summary, you know, so that you can edit the summary, so that you can, because there's going to be a lot of mistakes, particularly in the Arabic that are going to be painful for users if we don't provide easy, easy ways for them to correct and stuff. So, yeah, okay,
+
+Mohammed Zaghloul (msalahz)  31:18  
+okay, this is end of my demo again, everything here was implemented. Have a bilingual support. So excellent to the actions the language.
+
+Ameera Kawash  31:31  
+Okay, great, great. It looks good. Yeah, I think I mean, Waleed wanted to also, I guess we should talk about the next steps, and it would be good, I think, to understand, you know, we need to start to diagnose what are the biggest, like UX challenges that we need to solve now and then prioritize what we can do.
+
+Taha Shahzad  31:55  
+Yeah, so I think first, the first and foremost would be the stable at the homepage where we discussed that this could be media library. How do you envision this? That's like, you know, that would really give us a way forward as well, because this is the first point in time where the media would reflect and then the transcriptions would be made and all of that. So, yeah, having a clear understanding of, you know, how do we reflect those media, that media is going to be very helpful. Mohammed, what do you
+
+Mohammed Zaghloul (msalahz)  32:34  
+Yeah, yes. This is a really, a big broker for me, because now I need something to join everything together. From UI perspective, I understand that transcript is something major, something important, but it's the outcome, not the input or the material or the media. When I thought about implementing this recording via Live Meeting. Okay, I'm thinking about the flow. What will happen when I add the lock? I should choose some some status to the user. It should be added in the table. This was I expected. And it should show if it sends a schedule, it should show not start yet. It should show the time it will start, and if it's already on progress, it should give them some kind of a status that's something in recording right now, if it's processing the transcript, I should give them something like that. And all that is applied on all different types of media. This is audio or video meeting integrations and audio and video uploads and PDF uploads. Yes, these are five use cases that I'm aware of. Please let me know if there are any other use cases
+
+Ameera Kawash  33:54  
+there. No, I think, I mean, I don't know. Those are the main ones. It's also the the weather, yeah, you can put in your record your live meeting there. This integration is not working, that yet, right? Zoom, Google, meet. And then we
+
+Mohammed Zaghloul (msalahz)  34:11  
+have something. I think Taha,
+
+Taha Shahzad  34:13  
+we have it for the Jitsi, Ameera, if you remember,
+
+Ameera Kawash  34:16  
+yeah, yeah, okay, well, we will. We're going to try it. Let's for the next sprint. I know that Wade wants to prioritize that so we can actually start testing it. But also the ability to send recorder bots. I guess this is the ability to send the I mean, if you put in like this is you are sending the note taker, you are sending it right, like, it will show up. Okay, yeah, okay, so, yeah, that I think that's going to be because that's, in a way, it's immediate, it's immediate type. But I think what we need to think about is, if you know the users that are primarily going to be using this for meeting intelligence, and then the ones who are going to be using it for, let's say media intelligence more broadly. So they want to put in, maybe they want to put in videos, they want to put in whatever. They want to put in PDFs. They want to, you know, do we want to have that all on one table, or should there be two tables, you know, where you have your meetings? This is
+
+Taha Shahzad  35:17  
+also really dependent on, you know, what's your end goal of the platform? If it's like a knowledge platform, like we discussed, then seems like there should be one table, and we should redefine how it shouldn't be called transcripts, but it should be media or,
+
+Ameera Kawash  35:34  
+yeah, it should, to me, it shouldn't be, should be called Media Library or library or something like that. Yeah? So I'm throwing it off right now, yeah, but yeah, I think, I think, I think we do want, we do want to have a knowledge platform, though, let's say the the beach head, or the the first users, a lot of might be coming in, because there isn't a tool like this for meeting intelligence in Arabic, you know? So, yeah, I think it's, it would be good to all of us to weigh in on some of these questions. I'm just wondering, what is the easiest way of of doing that, like tickets or like notes on the figma board, or where
+
+Taha Shahzad  36:20  
+I would say the first, the first and foremost should be that you and will either present in the meeting and then you basically prop, you know, maybe show Anara of where the inspiration for this table is coming from, and what you have in mind. Once you have clearly communicated that, then we can build
+
+Ameera Kawash  36:38  
+on. Yeah, yeah, no, no, I'll align with Willie. That's just, you know, he schedules, just busy this week. But I will, I will, I will chat with him later, and we will, I will go over these points. It's just just to
+
+Taha Shahzad  36:51  
+have it so he doesn't wants to really divert from the getting the meeting intelligence released ASAP. So I would say that, you know, this is also probably something we can push it to after this two week sprint. Yeah, having,
+
+Ameera Kawash  37:07  
+I agree it's just more, yeah, but maybe I just think, I don't know. I mean, it's also good not to do a very big like redesign, even if some parts are not functional, fully functional, in my view. I mean, why would we read or redesign the whole home and then the like, the flow of things? If
+
+Taha Shahzad  37:27  
+that's what I would say, you know, like Mohammed, if we can not work on the home page and just work on the transcript tab, you know, tab right now, because we know over there we are just going to have transcripts. So probably just show the transcripts over there and for the homepage and how this all things come together. Ameera can take her time for two weeks to, you know, think about it, brainstorm about it. And then we can, once this two week sprint is done, we can then focus on, you know, whether how to show that, what to reflect on the homepage, and whatever small, minor changes would be required at that time. We could then do it. What do you think?
+
+Ameera Kawash  38:07  
+Yeah, I mean, let me talk. Let me talk to Waleed about about it specifically, because maybe we don't want to misrepresent the the platform in a way, even in its first, uh, iterations. Let's, let's let's just, let's just park it for a bit. Let's think about it.
+
+Taha Shahzad  38:25  
+You can work on the transcript tab and the homepage you're going to and how that that table reflects all the
+
+Ameera Kawash  38:31  
+I mean, we definitely want to have language. We want to have the language which identified, and we also want to have media type, yeah,
+
+Taha Shahzad  38:39  
+that's for sure. We'll add that, yeah, and then for the PDF and all of that, then we can discuss that.
+
+Ameera Kawash  38:46  
+Yeah. Okay, okay, all right. What else the logo is? Yeah, what
+
+Mohammed Zaghloul (msalahz)  38:57  
+about the logo? Well, the
+
+Ameera Kawash  38:58  
+logo, actually the logo, and the name, I think, is we're going to change so we have a designer. It's, I think we're going to call it tarib, which will be kept in Carib in English, because logos, the see, the SEO is going to be impossible. The biggest we're competing with the Bible. Actually, it's logos.com It has also very Christian kind of uses. And also it's a plural of logo. So the SEO is just going to be and in Arabic logos, it's, you know, a little bit. So we're thinking karib, which will be K, A, R, i, b, in English, like bringing people closer, bringing knowledge closer, you know, bringing cultures closer. What do you guys think of that? By
+
+Taha Shahzad  39:49  
+the way, it's the same in Urdu as well, curry,
+
+Ameera Kawash  39:53  
+yeah, and also Swahili. So we are going a bit more global with it, yeah? So yeah. So, anyway, I'm gonna have the, there's a logo designer. She'll finish it in the next four or five days.
+
+Taha Shahzad  40:06  
+Okay, yeah, all right, great,
+
+Ameera Kawash  40:11  
+yeah, yeah,
+
+Mohammed Zaghloul (msalahz)  40:13  
+absolutely, okay, okay, let's talk scope, about zaneke sprint,
+
+Ameera Kawash  40:21  
+also, also, just to let you know Mohammed, just mo sorry, I don't know if you prefer Mohammed. Mohammed, I'm not sure. Okay, whatever comes, then whatever, whatever. But the I was just want to, like, know that on the UX side, we decided on Sora and enter for fonts, yeah, I'm already using them. Okay, great. I just didn't know in the login, the login, the fonts look different
+
+Mohammed Zaghloul (msalahz)  40:50  
+in the login. Let me see, I think login titles are all using Sora.
+
+Ameera Kawash  40:57  
+Lot of it looked something looked different. But
+
+Mohammed Zaghloul (msalahz)  41:00  
+oh for Arabic, yeah, I'm using coffee for Arabic.
+
+Ameera Kawash  41:05  
+Oh, yeah, okay, okay, I guess we enter
+
+Mohammed Zaghloul (msalahz)  41:08  
+looks really bad on Arabic, so I choose coffee. I have coffee. If you want to change that, let me know. But it's much nicer than the Enter and sort of, by the way,
+
+Ameera Kawash  41:22  
+yeah, but this is all, this is all Sora and, right, this is also sore. And enter the Arabic as well that we have on the, on the new, on the new, yeah, we because, because, no, it's, it's coffee. No on the news.
+
+Mohammed Zaghloul (msalahz)  41:41  
+It's called No tukufia, new
+
+Ameera Kawash  41:44  
+in the new figma in the figma that Walid sent. Oh, yeah. The reason why we chose this is because this was the least round. By the way, the others are super round, is the style now, but this we felt, is better for long, long form reading.
+
+Mohammed Zaghloul (msalahz)  42:04  
+Okay, I'm not allowed to edit this. I will check it. So you would like to use enter and Sora for Arabic as well. I think. So, yeah, okay, let's, let's check it down. Yeah, it's,
+
+Ameera Kawash  42:17  
+I think I don't know if you paired it with Sora and inter maybe it's chiral. It's, it's actually, let me, let me get his, if you see the figma,
+
+Mohammed Zaghloul (msalahz)  42:30  
+yeah, that
+
+Ameera Kawash  42:32  
+he sent, did he? No, he already deleted that part where he, he told me it's Sora and enter and enter, yeah, yes,
+
+Mohammed Zaghloul (msalahz)  42:45  
+yes, I will switch them now, just to give me a second, I will show you
+
+Ameera Kawash  42:51  
+or what I'm wondering if, if you use Chiron or
+
+Ameera Kawash  43:02  
+I'm gonna because maybe, maybe I'm getting it wrong in the sense that
+
+Mohammed Zaghloul (msalahz)  43:10  
+this is a very small change. So whatever you choose, it's a line change. Actually it's one line and I will shoot it now. I
+
+Ameera Kawash  43:24  
+Anyway, let me, let me verify it for you 100% because I don't know if it's exactly the Soren inter or he said it's a counterpart for Soren intern, so I will just make sure 100% so you can clarify.
+
+Mohammed Zaghloul (msalahz)  43:41  
+Okay, so now we are using Sora and enter, okay, this is how it looks in the browser. And this is the figma. I think they are. They're the same, close, not to say,
+
+Ameera Kawash  44:03  
+let me, I'll get it. I'll get it from him. Don't worry. Well, let's I'll give that to back here.
+
+Mohammed Zaghloul (msalahz)  44:09  
+Anyway, I will ask for edit this, because I need an edit option to be able to go to the div mode. If not, I will ask for the source code so I can play with it, and then we get the fault from the finger design. Don't worry. Okay, okay. Anything else? No, no,
+
+Taha Shahzad  44:34  
+no. Ameera, are you available tomorrow for Yeah, like, or should we plan the sprint and then connect with you to give you an update, and then you can modify
+
+Ameera Kawash  44:47  
+as you like, as you like. I have time tomorrow.
+
+Taha Shahzad  44:50  
+Okay, then Mohammed, let's do this. We connect tomorrow, we plan the sprint, and then we connect with Ameera to finalize and make any adjustments as she sees fit.
+
+Mohammed Zaghloul (msalahz)  45:01  
+Makes makes sense.
+
+Ameera Kawash  45:05  
+Okay, great, great talking to you as well you as well. Thank you both. Thank you so much great work.
+

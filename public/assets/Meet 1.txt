@@ -1,0 +1,20 @@
+Ameera Kawash  0:00  
+Get started, and then I'll explain a little bit more about what we are building and designing.
+
+Hulma  0:05  
+Yeah, sure. Thank you. So my name is Hulma and I did my bachelor's in software engineering. I graduated in 2020, and since then, I've been in this data science, ml sort of domain. I work for around a couple of years, a little more than a couple of years in the industry, before I went for my master's, my master's has been solely focused on NLP. It was an Erasmus masters, and we were basically doing a lot of linguistics, computational linguistics, as well as some traditional just deep learning and machine learning stuff. And my thesis focused on using NLP, basically, sort of an agentic pipeline, or the current Lang chain, sort of agentic, but more like a bash agentic sort of file. And yeah, so it was basically generating prediction to start instructions using Lama, lama 3.3 to 70 million version. And yeah, for the past year, I've also been working with this startup, PLT hub, where I also have applied some AI techniques with some sort of data, basically shifting their platform from GCP to bet and airflow to abuse costs. So yeah, that's a big introduction, but yeah, feel free to ask any questions.
+
+Ameera Kawash  1:19  
+Fantastic, great. Just to give you a bit of overview about what we're building, because I don't think I went into it much into the in the last call, but initially, we're building a bilingual meeting intelligence and like knowledge production suite with a focus initially on Arabic and English. So there's a lot of work with ASR models, with whisper models. And then we're building as well, like knowledge infrastructure on the back end of that. And you know where we're trying to get to that? Because now, at least with a lot of dialects in Arabic, the ASR models, open sources are performing really poorly. They don't understand a lot of phonetics. 
+
+Hulma  4:09  
+I think more about the context of, is this for building some sort of application? Is it more like for research? What is the ultimate goal? For example, is this is solving some sort of problem, yeah. How does it work? Yeah.
+
+Ameera Kawash  4:23  
+I mean, the immediate goal is that it's going to be used for meeting intelligence. So it's a bilingual like order replacement, right? Because, right. Sorry, do you want to speak
+
+Prabhakar Ray  4:34  
+just one minute? Did someone
+
+Ameera Kawash  4:39  
+just so the you know, there is a need. You know, Arabic ASR models perform really, really poorly. You know, the error rates are terrible. There isn't, there isn't quite a tool out there for that region. And you know, beyond that, we want to start, really, to move into capturing, you know, knowledge, knowledge from the region, cultural knowledge, sorry, an understanding. So I guess the you the the next, the next phase or the next market will be like. More about using this tool also for, for Yeah, for knowledge production, for research, oral histories, for media transcription and so on. But, yeah, it is a commercial product.
